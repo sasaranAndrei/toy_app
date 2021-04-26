@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -24,3 +25,6 @@ Things you may want to cover:
 * ...
 
 a new comment
+
+# toy_app
+Toy app example from Ruby on Rails Tutorial
